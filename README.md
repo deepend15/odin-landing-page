@@ -1,1 +1,1 @@
-# odin-landing-page
+The intent of this project is to create a web page that mimics the format of a given design. In completing this project, I will have demonstrated an understanding of using Flexbox.
