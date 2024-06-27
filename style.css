@@ -11,6 +11,7 @@ html {
 * {
     font-family: "Roboto", sans-serif;
     font-size: 18px;
+    line-height: 1.5;
 }
 
 body {
@@ -86,7 +87,8 @@ button {
     background-color: #3882F6;
     color: #F9FAF8;
     font-family: Roboto, sans-serif;
-    border: none;
+    font-weight: 700;
+    border-style: none;
     border-radius: 8px;
     padding: 8px 32px;
 }
@@ -160,4 +162,46 @@ button {
     font-size: 24px;
     font-weight: 700;
     margin-right: 56px;
+}
+
+.signup {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 200px;
+}
+
+.signup-container {
+    background-color: #3882F6;
+    border-radius: 8px;
+    padding: 40px 108px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+}
+
+.call-to-action {
+    color: #F9FAF8;
+    font-weight: 700;
+    font-size: 24px;
+    margin-bottom: 8px;
+}
+
+.action-container {
+    flex: 0 1 550px;
+}
+
+.signup-text {
+    color: #E5E7EB;
+}
+
+.signup-container button {
+    border: 3px solid #F9FAF8;
+    border-radius: 8px;
+    padding: 8px 32px;
+}
+
+.signup-container .button {
+    flex: none;
 }
