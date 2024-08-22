@@ -1,5 +1,7 @@
 The intent of this project is to create a web page that mimics the format of a given design. In completing this project, I will have demonstrated an understanding of using Flexbox.
 
+Live link: https://deepend15.github.io/odin-landing-page/
+
 Image credit:
 
 1. 'ice-cream-main.jpg': Anna Tukhfatullina Food Photographer/Stylist - https://www.pexels.com/@myfoodie/
